@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Learn HTML in 1 Hour - Full Beginner Course",
+    "thumbnail": "https://i.ytimg.com/vi/UB1O30fR-EE/hqdefault.jpg",
+    "channel": "Code Academy",
+    "views": "500K views",
+    "videoId": "UB1O30fR-EE"
+  },
+  {
+    "id": "2",
+    "title": "CSS Grid Tutorial - Learn CSS Grid Layout Fast",
+    "thumbnail": "https://i.ytimg.com/vi/jgQWFf9f2ys/hqdefault.jpg",
+    "channel": "Web Dev Simplified",
+    "views": "1.2M views",
+    "videoId": "jgQWFf9f2ys"
+  },
+  {
+    "id": "3",
+    "title": "JavaScript Crash Course for Beginners",
+    "thumbnail": "https://i.ytimg.com/vi/hdI2bqOjy3c/hqdefault.jpg",
+    "channel": "Traversy Media",
+    "views": "3M views",
+    "videoId": "hdI2bqOjy3c"
+  },
+  {
+    "id": "4",
+    "title": "Responsive Web Design Tutorial - HTML & CSS",
+    "thumbnail": "https://i.ytimg.com/vi/srvUrASNj0s/hqdefault.jpg",
+    "channel": "FreeCodeCamp",
+    "views": "2.1M views",
+    "videoId": "srvUrASNj0s"
+  },
+  {
+    "id": "5",
+    "title": "React JS Full Course 2024 - Build an App",
+    "thumbnail": "https://i.ytimg.com/vi/bMknfKXIFA8/hqdefault.jpg",
+    "channel": "freeCodeCamp.org",
+    "views": "1.8M views",
+    "videoId": "bMknfKXIFA8"
+  },
+  {
+    "id": "6",
+    "title": "Python Full Course for Beginners",
+    "thumbnail": "https://i.ytimg.com/vi/_uQrJ0TkZlc/hqdefault.jpg",
+    "channel": "freeCodeCamp.org",
+    "views": "5.6M views",
+    "videoId": "_uQrJ0TkZlc"
+  }
+]

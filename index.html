@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YouTube Clone</title>
+  
+  <!-- Google Material Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="menu-logo">
+      <button id="menu-btn" class="icon-btn">
+        <span class="material-icons">menu</span>
+      </button>
+      <div class="logo">
+        <span class="material-icons logo-icon">play_circle</span>
+        <span>YouTube</span>
+      </div>
+    </div>
+    
+    <div class="search-bar">
+      <input type="text" id="search-input" placeholder="Search">
+      <button id="search-btn">
+        <span class="material-icons">search</span>
+      </button>
+    </div>
+    
+    <div class="profile">
+      <button id="theme-btn" class="icon-btn">
+        <span class="material-icons">dark_mode</span>
+      </button>
+      <button class="icon-btn">
+        <span class="material-icons">account_circle</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Sidebar -->
+  <aside class="sidebar" id="sidebar">
+    <ul>
+      <li class="active"><span class="material-icons">home</span> Home</li>
+      <li><span class="material-icons">local_fire_department</span> Trending</li>
+      <li><span class="material-icons">subscriptions</span> Subscriptions</li>
+      <li><span class="material-icons">video_library</span> Library</li>
+      <li><span class="material-icons">history</span> History</li>
+      <li><span class="material-icons">thumb_up</span> Liked Videos</li>
+    </ul>
+  </aside>
+
+  <!-- Main Content -->
+  <main class="main">
+    <div class="video-grid" id="video-grid">
+      <!-- Videos will be loaded here by JavaScript -->
+    </div>
+  </main>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
